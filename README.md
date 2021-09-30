@@ -50,8 +50,9 @@ If you notice me getting annoyed, feel free to call me out that I seem annoyed a
 - I highly value clear, succint communication. I feel most natural when I'm using a casual and crisp communication style.
 - I spent a lot of my formative software engineering years in DevOps. I'll talk your ear off about monitoring, architecture, hardware, and ops battle scars.
 - If you tell me I *can't* do something, I'm definitely going to do it.
-- MY SDI is Blue
-- My Myers-Briggs is ENFJ
-- My Enneagram is 7
-- My DnD alignment is chaotic good
-- I'm very into food and drinks and I travel a lot. I could talk for hours about cooking, good restaurants and bars, or travel recommendations.
+- If you like personality tests (I always take them with a grain of salt):
+  - SDI: Blue
+  - Myers-Briggs: ENFJ
+  - Enneagram: 7
+  - DnD alignment: chaotic good
+- I'm very into food and drinks and I travel a lot. I could talk for hours about cooking, good restaurants and bars, or travel recommendations. I'm also an avid exerciser: running, biking, swimming, yoga, hiking, or any random exercise class you can think of are all fun to me.
