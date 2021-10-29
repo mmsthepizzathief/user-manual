@@ -37,7 +37,7 @@ Tips and tricks for working with me.
 - Judging people based on anything but their abilities
 - Telling me why we can't do it and should all just give up anyway
 - Dad jokes
-- Singing at me
+- All but 5 Beatles songs
 
 If you notice me getting annoyed, feel free to call me out that I seem annoyed and I'll calm right down.
 
