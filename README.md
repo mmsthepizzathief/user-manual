@@ -48,6 +48,7 @@ If you notice me getting annoyed, feel free to call me out that I seem annoyed a
 - I love giving feedback when I feel comfortable doing so. If I'm giving you feedback it's because I beleive in you and think you can get better. I stop giving feedback when I know it's not being heard or is unwanted.
 - I love creative solutioning. It brings me a lot of joy when I'm thinking of a problem from a specific direction and someone finds a side door or sidesteps the problem entirely.
 - Rule-breaking sparks joy for me, both when others do it and when I get to
+- I love when people make fun of me or intentionally try to bother me, and I love the feeling of not knowing if I love or hate something. For example, lots of people tell me dad jokes intentionally because they know I hate them.
 - I highly value clear, succint communication. I feel most natural when I'm using a casual and crisp communication style.
 - I spent a lot of my formative software engineering years in DevOps. I'll talk your ear off about monitoring, architecture, hardware, and ops battle scars.
 - If you tell me I *can't* do something, I'm definitely going to do it.
