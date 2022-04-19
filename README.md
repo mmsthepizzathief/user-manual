@@ -56,5 +56,6 @@ If you notice me getting annoyed, feel free to call me out that I seem annoyed a
   - SDI: Blue
   - Myers-Briggs: ENFJ
   - Enneagram: 7
+  - DiSC: i
   - DnD alignment: chaotic good
 - I'm very into food and drinks and I travel a lot. I could talk for hours about cooking, good restaurants and bars, or travel recommendations. I'm also an avid exerciser: running, biking, swimming, yoga, hiking, or any random exercise class you can think of are all fun to me.
