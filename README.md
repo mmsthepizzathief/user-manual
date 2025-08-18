@@ -1,7 +1,5 @@
 # User Manual For Working with MMS/Mary
 
-Tips and tricks for working with me.
-
 **Pronouns:** she/her/hers
 
 ## My Values
@@ -41,7 +39,7 @@ Tips and tricks for working with me.
 
 If you notice me getting annoyed, feel free to call me out that I seem annoyed and I'll calm down.
 
-## Tips and Tricks
+## Insights on Working With Me
 - Consistently talk to me about problems you're thinking about and how you're thinking about solving them, especially if you're managing a team or an org. When I get insight into the way you think about solving problems and the issues that are top of mind for you, I feel more comfort that you are going to proactively handle issues and then I bother you less.
 - I love feedback because I'm a perfectionist and I always want to get better. I prefer feedback in an asyncronous format (like Slack) so that I can digest and ask thoughtful questions, but I will happily take it in whatever form you can give. It is most important to me that we retain a positive relationship and I can be a better partner to you every day.
 - I love giving feedback when I feel comfortable doing so. If I'm giving you feedback it's because I beleive in you and think you can get better. I stop giving feedback when I know it's not being heard, is unwanted, or is negatively impacting our relationship.
