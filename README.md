@@ -13,11 +13,11 @@
   - Educate yourself so you can be on the lookout for inequitable situations and your own unconscious bias. For example, learn about coded/biased feedback, pay gaps, difficulties parents face in the workplace, power dynamics inherent in hierarchical reporting structures, etc.
   - Be kindest to people when they are in a vulnerable position. This means being aware of how you give feedback to people who are in a marginalized group or who are new to the company, creating a positive experience for people applying to your company even if the job market is slow, making salary negotiations with your employees a stress-free experience, etc.
   - Rather than telling someone exactly what to do, teach them how to do something well on their own so they feel empowered in the future.
-- Humble: Be curious about others’ perspectives, decenter your ego to win as a team
+- Humility: Be curious about others’ perspectives, decenter your ego to win as a team
   - When someone says something that seems wrong to you, assume you don’t have perfect information and ask them more questions
   - Do critical but unglamorous work so that your team can succeed
   - Give public kudos to others when they did work that helped you succeed
-- Honest: Be honest and transparent, especially about the hard things
+- Honesty: Be honest and transparent, especially about the hard things
   - When you make a mistake, own up to it immediately, apologize, and propose a remediation
   - When you see a problem, respectfully bring it up and create space for people to collaboratively resolve it
   - Share any information you can that empowers others and allows them to do their jobs better. For example, share why a project is important to company goals so the people working on it are empowered to find creative solutions to achieve the ultimate goal for the project, rather than execute on the project blindly.
