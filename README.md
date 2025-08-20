@@ -3,6 +3,7 @@
 **Pronouns:** she/her/hers
 
 ## My Values
+This is the most important section to read. If we're misaligned on values you'll have a difficult time working inside any organization I manage, and working with me as a peer can be a real struggle as well.
 
 - Empathy: Be kind and considerate to others, and care about others deeply
   - Be considerate of the little things. Examples: read documentation someone wrote about a topic before asking them for information that might be in the documentation, phrase asks clearly rather than just pinging people on a long Slack/email thread and expecting them to figure it out on their own, don’t book over a calendar block that says “do not book”, etc.
