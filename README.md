@@ -27,6 +27,10 @@ This is the most important section to read. If we're misaligned on values you'll
   - Constantly self-reflect and solicit feedback to find ways to improve yourself. When you find something to improve, work to improve it as soon as possible.
   - Always look for ways to improve your situation and the things around you. Fix the things you can and ask for help on the things you can’t solve or aren’t sure how to solve.
 
+## Technical/Architectural Values
+- Designing code/architectures to be as simple as possible and as easy to understand as possible. Stray from best practices where necessary to keep things simple, easy to understand, and easy to build onto.
+- Design code/architectures to maximize engineering velocity where possible
+- Balance short-term fast delivery with long-term velocity and scalability concerns
 
 ## What Motivates Me
 
